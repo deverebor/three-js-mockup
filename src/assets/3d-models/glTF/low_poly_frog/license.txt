@@ -1,0 +1,8 @@
+Model Information:
+* title:	Low Poly Frog
+* source:	https://sketchfab.com/3d-models/low-poly-frog-798a67a86606436c9ebc7bbf51f6fce8
+* author:	BBMochi (https://sketchfab.com/BBMochi)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
